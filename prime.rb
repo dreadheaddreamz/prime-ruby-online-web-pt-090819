@@ -1,2 +1,2 @@
-def prime(prime)
+def prime?(prime)
   
